@@ -1,0 +1,16 @@
+﻿
+
+Mèo tên là: Blue, tốc độ là: 20 -bắt- Chuột: [tên: Pink, cân nặng: 10, tốc độ chạy: 10
+
+Mèo tên là: Blue, tốc độ là: 20 -bắt- Chuột: [tên: Purple, cân nặng: 15, tốc độ chạy: 20
+
+Mèo tên là: Blue, tốc độ là: 20 -bắt- Chuột: [tên: Black, cân nặng: 9, tốc độ chạy: 20
+
+Mèo tên là: Blue, tốc độ là: 20 -bắt- Chuột: [tên: Yellow, cân nặng: 9, tốc độ chạy: 10
+
+Mèo tên là: Grey, tốc độ là: 10 -bắt- Chuột: [tên: Red, cân nặng: 12, tốc độ chạy: 10
+
+Mèo tên là: Grey, tốc độ là: 10 -bắt- Chuột: [tên: Jerry, cân nặng: 13, tốc độ chạy: 10
+
+Mèo tên là: Blue, tốc độ là: 20 -bắt- Chuột: [tên: Orange, cân nặng: 10, tốc độ chạy: 10
+
